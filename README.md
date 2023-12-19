@@ -8,7 +8,7 @@ Educational purpose project with considerable assumptions
 ## Assumptions
 - For considering the importance of location only 2 parameters are taken i.e Shortest Haversine Distance to Nearest Railway station and Nearest Hospital.
 - Railway stations database used here was created as part of Location-Score project [link](https://github.com/GokulBShaji/Location-Score-Apartments-Bangalore) and geocoding was done using OpenMaps api.So the accuracy is relatively less as compared to Googlemaps api
-- Hospitals database used here is a subset(to reduce run time) from goverment website dated back to 2016 [link](https://data.gov.in/catalog/all-india-health-centres-directory)
+- Hospitals database used here is a subset(to reduce run time) from government website dated back to 2016 [link](https://data.gov.in/catalog/all-india-health-centres-directory)
 
 ## Procedure
 - Install the following libraries - sklearn,Pandas,Openpyxl
